@@ -187,7 +187,7 @@
     "lib",
     "src"
   ],
-  "homepage": "https://github.com/alayanetwork/samurai-ethjs-contract#readme",
+  "homepage": "https://github.com/AlayaNetwork/samurai-ethjs-contract#readme",
   "keywords": [
     "platon",
     "events",
@@ -202,7 +202,7 @@
   "pre-commit": "build",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/alayanetwork/samurai-ethjs-contract.git"
+    "url": "git+ssh://git@github.com/AlayaNetwork/samurai-ethjs-contract.git"
   },
   "scripts": {
     "build": "npm run build:commonjs && npm run build:umd && npm run build:umd:min",
